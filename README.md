@@ -11,6 +11,10 @@ npm start
    ```bash
    git clone https://github.com/MasterMisteryAnonimo/MasterMisteryBot-MD.git
 yarn
+
+```bash
 npm install
+
 npm update
+
 npm start
