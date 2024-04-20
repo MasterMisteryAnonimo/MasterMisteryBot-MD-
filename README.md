@@ -4,7 +4,8 @@
 
 ## ¿Cómo Invocar al Bot?
 
-¡Es fácil invocar a este poderoso ser! Sigue estos pasos para desatar el poder del metal en tu WhatsApp:
+```bash
+npm start
 
 1. **Clona el Repositorio**: Haz una copia de este repositorio en tu máquina utilizando el siguiente comando:
 
