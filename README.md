@@ -11,10 +11,10 @@
    ```bash
    git clone https://github.com/MasterMisteryAnonimo/MasterMisteryBot-MD.git
 
-```yarn
+```yarn```
 
-```npm install
+```npm install```
 
-```npm update
+```npm update```
 
-```npm start
+```npm start```
