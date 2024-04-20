@@ -4,7 +4,6 @@
 
 ## ¿Cómo Invocar al Bot?
 
-```bash
 npm start
 
 1. **Clona el Repositorio**: Haz una copia de este repositorio en tu máquina utilizando el siguiente comando:
