@@ -1,6 +1,6 @@
 # Bienvenidos al bot MasterMisteryBot-MD
 
-\m/ Saludos, este es mi primer bot.
+ Saludos, este es mi primer bot.
 
 ## ¿Cómo Invocar al Bot?
 
@@ -10,11 +10,7 @@ npm start
 
    ```bash
    git clone https://github.com/MasterMisteryAnonimo/MasterMisteryBot-MD.git
-
 yarn
-
 npm install
-
 npm update
-
 npm start
