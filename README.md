@@ -20,4 +20,3 @@ npm update
 
 npm start
 
-<span style="color:green">Hello</span>
