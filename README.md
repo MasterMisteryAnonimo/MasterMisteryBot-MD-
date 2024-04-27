@@ -25,6 +25,6 @@ npm start
 Para agregar color, puedes usar HTML en línea con estilos CSS en línea. Aquí tienes un ejemplo de cómo agregar color al título y al texto:
 
 ```markdown
-# <span style="color:blue">Mi Bot Increíble</span>
+# <span style="color:red">Mi Bot Increíble</span>
 
 Este es un bot <span style="color:red">increíble</span> que hace cosas <span style="color:green">asombrosas</span>.
