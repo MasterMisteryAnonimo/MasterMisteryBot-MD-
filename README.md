@@ -20,6 +20,4 @@ npm update
 
 npm start
 
-```markdown
-
-<span style="color:green">Texto en verde</span>
+<span style="color:green">Hello</span>
