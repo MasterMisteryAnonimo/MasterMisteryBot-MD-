@@ -21,8 +21,4 @@ npm update
 npm start
 
 
-
-```markdown
-# <span style="color:red">Mi Bot Increíble</span>
-
-Este es un bot <span style="color:red">increíble</span> que hace cosas <span style="color:green">asombrosas</span>.
+<span style="color:green">Texto en verde</span>
